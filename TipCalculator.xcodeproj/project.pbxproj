@@ -14,6 +14,7 @@
 		61A36F091E06EE5C00AFA65F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 61A36F071E06EE5C00AFA65F /* LaunchScreen.storyboard */; };
 		61A36F141E06EE5C00AFA65F /* TipCalculatorTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 61A36F131E06EE5C00AFA65F /* TipCalculatorTests.swift */; };
 		61A36F1F1E06EE5C00AFA65F /* TipCalculatorUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 61A36F1E1E06EE5C00AFA65F /* TipCalculatorUITests.swift */; };
+		61B763BA1E2069AE00797303 /* Dark-Night-Gradation-Blur-Background-iphone-5-wallpaper-ilikewallpaper_com_200.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 61B763B91E2069AE00797303 /* Dark-Night-Gradation-Blur-Background-iphone-5-wallpaper-ilikewallpaper_com_200.jpeg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		61A36F1A1E06EE5C00AFA65F /* TipCalculatorUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TipCalculatorUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		61A36F1E1E06EE5C00AFA65F /* TipCalculatorUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TipCalculatorUITests.swift; sourceTree = "<group>"; };
 		61A36F201E06EE5C00AFA65F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		61B763B91E2069AE00797303 /* Dark-Night-Gradation-Blur-Background-iphone-5-wallpaper-ilikewallpaper_com_200.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Dark-Night-Gradation-Blur-Background-iphone-5-wallpaper-ilikewallpaper_com_200.jpeg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,6 +83,7 @@
 				61A36F121E06EE5C00AFA65F /* TipCalculatorTests */,
 				61A36F1D1E06EE5C00AFA65F /* TipCalculatorUITests */,
 				61A36EFC1E06EE5C00AFA65F /* Products */,
+				61B763B91E2069AE00797303 /* Dark-Night-Gradation-Blur-Background-iphone-5-wallpaper-ilikewallpaper_com_200.jpeg */,
 			);
 			sourceTree = "<group>";
 		};
@@ -237,6 +240,7 @@
 			files = (
 				61A36F091E06EE5C00AFA65F /* LaunchScreen.storyboard in Resources */,
 				61A36F061E06EE5C00AFA65F /* Assets.xcassets in Resources */,
+				61B763BA1E2069AE00797303 /* Dark-Night-Gradation-Blur-Background-iphone-5-wallpaper-ilikewallpaper_com_200.jpeg in Resources */,
 				61A36F041E06EE5C00AFA65F /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -512,6 +516,7 @@
 				61A36F251E06EE5C00AFA65F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		61A36F261E06EE5C00AFA65F /* Build configuration list for PBXNativeTarget "TipCalculatorTests" */ = {
 			isa = XCConfigurationList;
@@ -520,6 +525,7 @@
 				61A36F281E06EE5C00AFA65F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		61A36F291E06EE5C00AFA65F /* Build configuration list for PBXNativeTarget "TipCalculatorUITests" */ = {
 			isa = XCConfigurationList;
@@ -528,6 +534,7 @@
 				61A36F2B1E06EE5C00AFA65F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
